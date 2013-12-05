@@ -1,9 +1,8 @@
-= Modern Web Development for Java Programmers
-
+==  Modern Web Development for Java Programmers
 
 Java ecosystem offers lots of different ways to architect, develop, and deploy a distributed Web application. The parallel ecosystem known as HTML5 offers lots of different ways to design, develop, and deploy the cross-platform UI that works on multiple Web browsers and variety of devices. This online training class has a goal to bring these two universes together.
 
-== Prerequisites 
+=== Prerequisites 
 
 Attendees must have a working knowledge of core Java, and understanding of Java EE technologies.
 
@@ -12,18 +11,18 @@ Each attendee has to have a modern notebook with at least 4GB of RAM and plenty 
 Having a decent Internet connection (more than 2Mbit) is required.
 
 
-== How
+=== How
 
 This will be a  a mix of theory (30%) and practical work (70%). During this training attendees will develop an online auction. This auction should look good and be functional on desktops, tablets and smartphones.
 
 The goal of this training is an immersion into an environment similar to a real-world enterprise setup. Be prepared to download, install and master lots of various software packages that will be used at different stages of training.
 
 
-== Tools and Technologies
+=== Tools and Technologies
 
 We're still finalizing the tools, techniques, and technologies that will be used in this project. Here's the preliminary list
 
-=== Front end
+==== Front end
 
 * HTML
 * CSS
@@ -43,7 +42,7 @@ We're still finalizing the tools, techniques, and technologies that will be used
 * Balsamiq Mockups
 * Jasmine framework
 
-=== Middle Tier
+==== Middle Tier
 
 * Java 8
 * Java EE 7
@@ -58,19 +57,19 @@ We're still finalizing the tools, techniques, and technologies that will be used
 * Gradle  (build scripts)
 * JUnit
 
-=== Data Persistence
+==== Data Persistence
 
 * Oracle DBMS
 * MongoDB
 
-=== Miscelaneous
+==== Miscelaneous
 
 * JetBrains TeamCity (continuous integration, code coverage)
 * Git (version control system)
 * IntelliJ IDEA IDE
 * WebStorm IDE
 
-== Instructors
+=== Instructors
 
 Three instructors will teach this course. All of them are practitioners employed by Farata Systems:
 
@@ -80,6 +79,6 @@ Three instructors will teach this course. All of them are practitioners employed
 
 Other professionals from Farata Systems will also be invited to share their experience in developing and deploying complex enterprise systems. 
 
-== How much and how long
+=== How much and how long
 
 We didn't decide on cost  or length of this training yet.  Most likely it's going to be 10 weekly online sessions and at least five optional meetings in between. Each 3-hour session will run on weekends. We'll use screen-sharing software. Attendees will be able to hear instructors and will communicate with them via a chat room. 

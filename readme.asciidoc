@@ -8,7 +8,7 @@ Attendees must have a working knowledge of core Java, and understanding of Java 
 
 Each attendee has to have a modern notebook with at least 4GB of RAM and plenty of disk space.
 
-Having a decent Internet connection (more than 2Mbit) is required.
+Having a decent Internet connection (more than 2Mbps) is required.
 
 
 === How
@@ -57,6 +57,8 @@ We're still finalizing the tools, techniques, and technologies that will be used
 * Gradle  (build scripts)
 * JUnit
 
+We're considering to split the group at some point - half of the class will use Spring Framework, and and the other half Java EE.
+
 ==== Data Persistence
 
 * Oracle DBMS
@@ -71,7 +73,7 @@ We're still finalizing the tools, techniques, and technologies that will be used
 
 === Instructors
 
-Three instructors will teach this course. All of them are practitioners employed by Farata Systems:
+Three instructors will teach this course. All of them are practitioners employed by http://faratasystems.com/[Farata Systems]:
 
 * Yakov Fain (USA)
 * Victor Gamov (USA)
@@ -81,4 +83,4 @@ Other professionals from Farata Systems will also be invited to share their expe
 
 === How much and how long
 
-We didn't decide on cost  or length of this training yet.  Most likely it's going to be 10 weekly online sessions and at least five optional meetings in between. Each 3-hour session will run on weekends. We'll use screen-sharing software. Attendees will be able to hear instructors and will communicate with them via a chat room. 
+We didn't decide on cost  or length of this training yet.  Most likely it's going to be 10 weekly online 3-hour sessions on Sunday mornings (New York time) and at least five optional meetings in between.  We'll use screen-sharing software. Attendees will be able to hear instructors and will communicate with them via a chat room. We're planning to start this training in March of 2014.

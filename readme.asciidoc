@@ -84,3 +84,5 @@ Other professionals from Farata Systems will also be invited to share their expe
 === How much and how long
 
 We didn't decide on cost  or length of this training yet.  Most likely it's going to be 10 weekly online 3-hour sessions on Sunday mornings (New York time) and at least five optional meetings in between.  We'll use screen-sharing software. Attendees will be able to hear instructors and will communicate with them via a chat room. We're planning to start this training in March of 2014.
+
+If you'd like to receive automatic notifications about this course, please become a GitHub Watcher.

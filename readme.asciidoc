@@ -4,6 +4,7 @@ Java ecosystem offers lots of different ways to architect, develop, and deploy a
 
 === Prerequisites 
 
+Attendees must commit at least 20 hour a week for studying/working on the assignments from this course. 
 Attendees must have a working knowledge of core Java, and understanding of Java EE technologies.
 
 Each attendee has to have a modern notebook with at least 4GB of RAM and plenty of disk space.
@@ -33,7 +34,6 @@ We're still finalizing the tools, techniques, and technologies that will be used
 * JSON
 * AngularJS framework
 * Bootstrap framework
-* ExtJS framework
 * Google Chrome Web Browser
 * WebSockets
 * Grunt (build script)
@@ -66,8 +66,7 @@ We're considering to split the group at some point - half of the class will use 
 
 * JetBrains TeamCity (continuous integration, code coverage)
 * Git (version control system)
-* IntelliJ IDEA IDE
-* WebStorm IDE
+* IntelliJ IDEA IDE, WebStorm IDE
 
 === Instructors
 
@@ -84,3 +83,26 @@ Other professionals from Farata Systems will also be invited to share their expe
 We didn't decide on cost  or length of this training yet.  Most likely it's going to be 10 weekly online 3-hour sessions on Sunday mornings (New York time) and at least five optional meetings in between.  We'll use screen-sharing software. Attendees will be able to hear and see the instructors and will communicate with them via a chat room. We're planning to start this training in March of 2014.
 
 If you'd like to receive automatic notifications about this course, please become a GitHub Watcher.
+
+=== Outline (the final outline may be different)
+
+* Unit1. Mocking the UI of the app. Developing and Debugging in HTML/JavaScript. Selected topics about JavaScript. Think mobile - Intro to Responsive Web Design. Creating the first prototype of the app in pure HTML/JavaScript/CSS. Intro to GIT/Github. TypeScript? 
+
+* Unit2. Becoming productive. Overview of JavaScript cross-browser frameworks. Generating the AngularJS project. Styling with Bootstrap. Introducing TDD/BDD in JavaScript code. Creating the second prototype of the UI. Build scripts with Grunt. 
+
+* Unit3. Intro to Dart programming language. Dart/Angular.Creating the third prototype of the UI.
+
+* Unit4. AJAX. JSON. REST. Configuring Glassfish server. Creating the fourth prototype of the UI (consuming JSON from the server via HTTP protocol).
+
+* Unit5. Intro to WebSockets. Creating the fifth prototype of the UI (Server pushes data to the client via WebSocket).
+
+* Unit6. Intro to Java Messaging. Configuring Messaging Server (mocking a matching engine?). Testing communication between Glassfish and messaging server. Load testing?
+
+* Unit7. TDD in Java.  Configuring Oracle DBMS server. JDBC. MyBatis? Build scripts with Gradle.
+
+* Unit8. Java 8 and Java EE 7. Creating the Java EE version of the server-side app. Integration with UI.
+
+
+* Unit9. Spring Framework (core, security). Creating the Java EE version of the server-side app. Integration with UI.
+
+* Unit10. Adding full text search. Integration with Payment service?

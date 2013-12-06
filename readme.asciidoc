@@ -1,10 +1,15 @@
-==  Modern Web Development for Java Programmers
+==  Modern Web Application Development for Java Programmers
 
 Java ecosystem offers lots of different ways to architect, develop, and deploy a distributed Web application. The parallel ecosystem known as HTML5 offers lots of different ways to design, develop, and deploy the cross-platform UI that works on multiple Web browsers and variety of devices. This online training class has a goal to bring these two universes together.
 
+The goal of this training is an immersion into an environment similar to a real-world enterprise setup. Be prepared to download, install and master lots of various software packages that will be used at different stages of training.
+
+The title read _Web Development_, and we'll spend about 40% of the time developing UI in HTML5 and about 60% of the time will be spend in the server-side. 
+
 === Prerequisites 
 
-Attendees must commit at least 20 hour a week for studying/working on the assignments from this course. 
+Attendees have to commit at least 20 hour a week for studying/working on the assignments from this course. If you don't have this time at hand please don't enroll. We'll split the class into small teams to work on the assignments during the week so your contribution will be required. 
+
 Attendees must have a working knowledge of core Java, and understanding of Java EE technologies.
 
 Each attendee has to have a modern notebook with at least 4GB of RAM and plenty of disk space.
@@ -14,14 +19,15 @@ Having a decent Internet connection (more than 2Mbps) is required.
 
 === How
 
-This will be a  a mix of theory (30%) and practical work (70%). During this training attendees will develop an online auction. This auction should look good and be functional on desktops, tablets and smartphones.
+This will be a  a mix of theory (40%) and practical work (60%). During this training attendees will develop an online auction. This auction should look good and be functional on desktops, tablets and smartphones.
 
-The goal of this training is an immersion into an environment similar to a real-world enterprise setup. Be prepared to download, install and master lots of various software packages that will be used at different stages of training.
+This training will consist of 10 weekly 3-hour online sessions on Sundays and 9 optional one-hour meetings in between.  We'll use screen-sharing software. Attendees will be able to hear and see the instructors and will communicate with them via a chat room. In late February early March of 2014 we'll start  training with the first group (the waiting list is already rather long though).
 
+If you'd like to receive automatic notifications about this course, please become a GitHub Watcher.
 
 === Tools and Technologies
 
-We're still finalizing the tools, techniques, and technologies that will be used in this project. Here's the preliminary list
+We're still finalizing the tools, techniques, and technologies that will be used in this project. Here's the current list of of software to be used in this course.
 
 ==== Front end
 
@@ -50,23 +56,21 @@ We're still finalizing the tools, techniques, and technologies that will be used
 * Spring 4 Framework (some modules)
 * Oracle GlassFish app server
 * WebSockets
-* Java Messaging
+* OpenMQ (Java Messaging)
 * JAX-RS (Rest API)
-* Apache Solr (full text search)
 * Gradle  (build scripts)
-* JUnit
+* Spoke or JUnit (unit testing)
 
-We're considering to split the group at some point - half of the class will use Spring Framework, and and the other half Java EE.
 
 ==== Data Persistence
 
 * Oracle DBMS (no ORM)
 
-==== Miscelaneous
+==== Miscellaneous
 
 * JetBrains TeamCity (continuous integration, code coverage)
-* Git (version control system)
-* IntelliJ IDEA IDE, WebStorm IDE
+* Git (version control system), GitHub (Git hosting service)
+* IntelliJ IDEA IDE
 
 === Instructors
 
@@ -76,33 +80,35 @@ Three instructors will teach this course. All of them are practitioners employed
 * Victor Gamov (USA)
 * Anton Moiseev (Russia)
 
-Other professionals from Farata Systems will also be invited to share their experience in developing and deploying complex enterprise systems. 
+Other professionals from Farata Systems may also be invited to share their experience in developing and deploying complex enterprise systems. 
 
-=== How much and how long
+=== Tuition
 
-We didn't decide on cost  or length of this training yet.  Most likely it's going to be 10 weekly online 3-hour sessions on Sunday mornings (New York time) and at least five optional meetings in between.  We'll use screen-sharing software. Attendees will be able to hear and see the instructors and will communicate with them via a chat room. We're planning to start this training in March of 2014.
+The cost of this course is $499.
 
-If you'd like to receive automatic notifications about this course, please become a GitHub Watcher.
+=== Outline (draft)
 
-=== Outline (the final outline may be different)
+* *Unit1.* Mocking the UI of the app. Developing and Debugging in HTML/JavaScript. Selected topics about JavaScript. Creating the first prototype of the app in pure HTML/JavaScript/CSS. Intro to GIT/Github. TypeScript? 
 
-* Unit1. Mocking the UI of the app. Developing and Debugging in HTML/JavaScript. Selected topics about JavaScript. Think mobile - Intro to Responsive Web Design. Creating the first prototype of the app in pure HTML/JavaScript/CSS. Intro to GIT/Github. TypeScript? 
+* *Unit2.* Think mobile - Intro to Responsive Web Design. Becoming productive. Overview of JavaScript cross-browser frameworks. Generating the AngularJS project. Styling with Bootstrap. 
 
-* Unit2. Becoming productive. Overview of JavaScript cross-browser frameworks. Generating the AngularJS project. Styling with Bootstrap. Introducing TDD/BDD in JavaScript code. Creating the second prototype of the UI. Build scripts with Grunt. 
+* *Unit3.* AngularJS framework. Introducing TDD/BDD in JavaScript code. Creating the second prototype of the UI. Build scripts with Grunt. Package Manageent with Bower.
 
-* Unit3. Intro to Dart programming language. Dart/Angular.Creating the third prototype of the UI.
+_One week break for self study and catching up._
 
-* Unit4. AJAX. JSON. REST. Configuring Glassfish server. Creating the fourth prototype of the UI (consuming JSON from the server via HTTP protocol).
-
-* Unit5. Intro to WebSockets. Creating the fifth prototype of the UI (Server pushes data to the client via WebSocket).
-
-* Unit6. Intro to Java Messaging. Configuring Messaging Server (mocking a matching engine?). Testing communication between Glassfish and messaging server. Load testing?
-
-* Unit7. TDD in Java.  Configuring Oracle DBMS server. JDBC. MyBatis? Build scripts with Gradle.
-
-* Unit8. Java 8 and Java EE 7. Creating the Java EE version of the server-side app. Integration with UI.
+* *Unit4.* Intro to Dart programming language. Dart/Angular.Creating the third prototype of the UI.
 
 
-* Unit9. Spring Framework (core, security). Creating the Java EE version of the server-side app. Integration with UI.
+* *Unit5.* AJAX. JSON. REST. Configuring Glassfish server. Creating the fourth prototype of the UI (consuming JSON from the server via HTTP protocol).
 
-* Unit10. Adding full text search. Integration with Payment service?
+* *Unit6.* Intro to WebSockets. Creating the fifth prototype of the UI (Server pushes data to the client via WebSocket).
+
+* *Unit7.* Intro to Java Messaging. Configuring Messaging Server (mocking a matching engine?). Testing communication between Glassfish and messaging server. Load testing (JMeter).
+
+_One week break for self study and catching up._
+
+* *Unit8.* TDD in Java. JUnit and Spoke. Configuring Oracle DBMS server. MyBatis. Build scripts with Gradle.
+
+* *Unit9.* Java 8 and Java EE 7. Creating the Java EE version of the server-side app. Integration with UI.
+
+* *Unit10.* Spring Framework (core, security). Creating the Spring version of the server-side app. Integration with UI.

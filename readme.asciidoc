@@ -21,13 +21,13 @@ Having a decent Internet connection (more than 2Mbps) is required.
 
 This will be a  a mix of theory (40%) and practical work (60%). During this training attendees will develop an online auction. This auction should look good and be functional on desktops, tablets and smartphones.
 
-This training will consist of 10 weekly 3-hour online sessions on Sundays and 9 optional one-hour meetings in between.  We'll use screen-sharing software. Attendees will be able to hear and see the instructors and will communicate with them via a chat room. In late February early March of 2014 we'll start  training with the first group (the waiting list is already rather long though).
+This training will consist of 10 weekly 3-hour online sessions on Sundays and 9 optional one-hour meetings in between.  We'll use screen-sharing software. Attendees will be able to hear and see the instructors and will communicate with them via a chat room. The first class will start on February 23rd, 2014.
 
 If you'd like to receive automatic notifications about this course, please become a watcher of this GitHub repository.
 
 === Tools and Technologies
 
-We're still finalizing the tools, techniques, and technologies that will be used in this project. Here's the current list of of software to be used in this course.
+We're still finalizing the tools, techniques, and technologies that will be used in this project. Here's the current list of the software that we'll use in this course.
 
 ==== Front end
 
@@ -41,10 +41,10 @@ We're still finalizing the tools, techniques, and technologies that will be used
 * http://getbootstrap.com/[Bootstrap framework]
 * Google Chrome Web Browser
 * WebSockets https://developer.mozilla.org/en-US/docs/WebSockets[on the client]) 
-* http://gruntjs.com/[Grunt] (build automation)
+* http://gruntjs.com/[Grunt] (The JavaScript task runner)
 * https://npmjs.org/[NPM]
 * http://bower.io/[Bower]
-* Balsamiq Mockups
+* http://balsamiq.com[Balsamiq Mockups]
 * https://github.com/pivotal/jasmine[Jasmine framework]
 
 ==== Middle Tier
@@ -53,9 +53,9 @@ We're still finalizing the tools, techniques, and technologies that will be used
 * http://www.oracle.com/technetwork/java/javaee/overview/index.html[Java EE 7]
 * SQL: JDBC and http://mybatis.github.io/mybatis-3/[MyBatis]
 * https://spring.io/blog/2013/11/01/spring-framework-4-0-rc1-available[Spring 4 Framework] (some modules)
-* http://www.oracle.com/technetwork/java/javaee/downloads/index.html?ssSourceSiteId=ocomen[Oracle GlassFish application server]
+* http://www.oracle.com/technetwork/java/javaee/downloads/index.html?ssSourceSiteId=ocomen[Oracle GlassFish application server] or http://www.wildfly.org/[JBoss Wildfly]
 * WebSockets https://jcp.org/en/jsr/detail?id=356[on the server (JSR-356])
-* https://mq.java.net/[OpenMQ] (Java Messaging)
+* https://mq.java.net/[OpenMQ] or http://www.jboss.org/hornetq[JBoss HornetQ](Java Messaging)
 * http://docs.oracle.com/javaee/7/tutorial/doc/jaxrs-advanced.htm#GJJXE[JAX-RS] (Java API for RESTful Web services)
 * http://www.gradle.org/[Gradle]  (build automation)
 * https://code.google.com/p/spock/[Spock] or JUnit (unit testing and mocking)
@@ -74,7 +74,7 @@ We're still finalizing the tools, techniques, and technologies that will be used
 
 Three instructors will teach this course. All of them are practitioners employed by http://faratasystems.com/[Farata Systems]:
 
-* *Yakov Fain (USA)* - Co-founder of Farata Systems, the IT consultancy. Java Champion. Organizer of the Princeton Java Users Group. Authored and co-authored a number of technical books on programming.
+* *Yakov Fain (USA)* - Co-founder of Farata Systems, the IT consultancy. https://java.net/website/java-champions/bios.html[Java Champion]. Organizer of the http://www.meetup.com/NJFlex/[Princeton Java Users Group]. Authored and co-authored a number of technical books on programming.
 
 * *Viktor Gamov (USA)* - Lead software developer in Farata Systems. Helps financial companies with various Java and HTML5 projects. Co-organizer of the Princeton Java Users Group. Co-author of the O'Reilly book on http://enterprisewebbook.com/[Enterprise Web Development].
 

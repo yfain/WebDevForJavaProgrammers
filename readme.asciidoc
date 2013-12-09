@@ -4,7 +4,7 @@ Java ecosystem offers lots of different ways to architect, develop, and deploy a
 
 The goal of this training is an immersion into an environment similar to a real-world enterprise setup. Be prepared to download, install and master lots of various software packages that will be used at different stages of training.
 
-The title read _Web Development_, and we'll spend about 40% of the time developing UI in HTML5 and about 60% of the time will be spend in the server-side. 
+The title reads _Web Development_, and we'll spend about 40% of the time developing UI in HTML5 and about 60% of the time will be spend in the server-side. 
 
 === Prerequisites 
 
@@ -37,32 +37,32 @@ We're still finalizing the tools, techniques, and technologies that will be used
 * JavaScript
 * TypeScript
 * JSON
-* AngularJS framework
-* Bootstrap framework
+* http://angularjs.org/[AngularJS framework]
+* http://getbootstrap.com/[Bootstrap framework]
 * Google Chrome Web Browser
-* WebSockets
+* WebSockets https://developer.mozilla.org/en-US/docs/WebSockets[on the client]) 
 * http://gruntjs.com/[Grunt] (build automation)
 * https://npmjs.org/[NPM]
 * http://bower.io/[Bower]
 * Balsamiq Mockups
-* Jasmine framework
+* https://github.com/pivotal/jasmine[Jasmine framework]
 
 ==== Middle Tier
 
-* Java 8
-* Java EE 7
+* http://www.oracle.com/technetwork/java/javase/overview/index.html/[Java SE 8]
+* http://www.oracle.com/technetwork/java/javaee/overview/index.html[Java EE 7]
 * SQL: JDBC and http://mybatis.github.io/mybatis-3/[MyBatis]
-* Spring 4 Framework (some modules)
-* Oracle GlassFish application server
-* WebSockets
-* OpenMQ (Java Messaging)
-* JAX-RS (Rest API)
-* Gradle  (build automation)
+* https://spring.io/blog/2013/11/01/spring-framework-4-0-rc1-available[Spring 4 Framework] (some modules)
+* http://www.oracle.com/technetwork/java/javaee/downloads/index.html?ssSourceSiteId=ocomen[Oracle GlassFish application server]
+* WebSockets https://jcp.org/en/jsr/detail?id=356[on the server (JSR-356])
+* https://mq.java.net/[OpenMQ] (Java Messaging)
+* http://docs.oracle.com/javaee/7/tutorial/doc/jaxrs-advanced.htm#GJJXE[JAX-RS] (Java API for RESTful Web services)
+* http://www.gradle.org/[Gradle]  (build automation)
 * https://code.google.com/p/spock/[Spock] or JUnit (unit testing and mocking)
 
-==== Data Persistence
+==== DBMS 
 
-* Oracle DBMS (no ORM)
+* Oracle  
 
 ==== Miscellaneous
 
@@ -74,9 +74,11 @@ We're still finalizing the tools, techniques, and technologies that will be used
 
 Three instructors will teach this course. All of them are practitioners employed by http://faratasystems.com/[Farata Systems]:
 
-* Yakov Fain (USA)
-* Viktor Gamov (USA)
-* Anton Moiseev (Russia)
+* *Yakov Fain (USA)* - Co-founder of Farata Systems, the IT consultancy. Java Champion. Organizer of the Princeton Java Users Group. Authored and co-authored a number of technical books on programming.
+
+* *Viktor Gamov (USA)* - Lead software developer in Farata Systems. Helps financial companies with various Java and HTML5 projects. Co-organizer of the Princeton Java Users Group. Co-author of the O'Reilly book on http://enterprisewebbook.com/[Enterprise Web Development].
+
+* *Anton Moiseev (Russia)* - Lead software developer in Farata Systems. Specializes in developing e-Commerce projects. Enjoys everything HTML5-related. Authored and taught trainings on developing Web applications with Ext JS framework.
 
 Other professionals from Farata Systems may also be invited to share their experience in developing and deploying complex enterprise systems. 
 

@@ -23,7 +23,7 @@ This will be a  a mix of theory (40%) and practical work (60%). During this trai
 
 This training will consist of 10 weekly 3-hour online sessions on Sundays and 9 optional one-hour meetings in between.  We'll use screen-sharing software. Attendees will be able to hear and see the instructors and will communicate with them via a chat room. In late February early March of 2014 we'll start  training with the first group (the waiting list is already rather long though).
 
-If you'd like to receive automatic notifications about this course, please become a GitHub Watcher.
+If you'd like to receive automatic notifications about this course, please become a watcher of this GitHub repository.
 
 === Tools and Technologies
 
@@ -41,9 +41,9 @@ We're still finalizing the tools, techniques, and technologies that will be used
 * Bootstrap framework
 * Google Chrome Web Browser
 * WebSockets
-* Grunt (build script)
-* NPM
-* Bower
+* http://gruntjs.com/[Grunt] (build automation)
+* https://npmjs.org/[NPM]
+* http://bower.io/[Bower]
 * Balsamiq Mockups
 * Jasmine framework
 
@@ -51,15 +51,14 @@ We're still finalizing the tools, techniques, and technologies that will be used
 
 * Java 8
 * Java EE 7
-* SQL
+* SQL: JDBC and http://mybatis.github.io/mybatis-3/[MyBatis]
 * Spring 4 Framework (some modules)
-* Oracle GlassFish app server
+* Oracle GlassFish application server
 * WebSockets
 * OpenMQ (Java Messaging)
 * JAX-RS (Rest API)
-* Gradle  (build scripts)
-* Spoke or JUnit (unit testing)
-
+* Gradle  (build automation)
+* https://code.google.com/p/spock/[Spock] or JUnit (unit testing and mocking)
 
 ==== Data Persistence
 
@@ -76,7 +75,7 @@ We're still finalizing the tools, techniques, and technologies that will be used
 Three instructors will teach this course. All of them are practitioners employed by http://faratasystems.com/[Farata Systems]:
 
 * Yakov Fain (USA)
-* Victor Gamov (USA)
+* Viktor Gamov (USA)
 * Anton Moiseev (Russia)
 
 Other professionals from Farata Systems may also be invited to share their experience in developing and deploying complex enterprise systems. 
@@ -91,10 +90,9 @@ The cost of this course is $499.
 
 * *Unit2.* Think mobile - Intro to Responsive Web Design. Becoming productive. Overview of JavaScript cross-browser frameworks. Generating the AngularJS project. Styling with Bootstrap. 
 
-* *Unit3.* AngularJS framework. Introducing TDD/BDD in JavaScript code. Creating the second prototype of the UI. Build scripts with Grunt. Package Manageent with Bower.
+* *Unit3.* AngularJS framework. Introducing TDD/BDD in JavaScript code. Creating the second prototype of the UI. Build scripts with Grunt. Package Management with Bower.
 
 _One week break for self study and catching up._
-
 
 * *Unit4.* AJAX. JSON. REST. Configuring Glassfish server. Creating the third prototype of the UI (consuming JSON from the server via HTTP protocol).
 
@@ -104,7 +102,7 @@ _One week break for self study and catching up._
 
 _One week break for self study and catching up._
 
-* *Unit7.* TDD in Java. JUnit and Spoke. Configuring Oracle DBMS server. MyBatis. Build scripts with Gradle.
+* *Unit7.* TDD in Java. JUnit and Spoke. Configuring Oracle DBMS server. MyBatis framework. Build scripts with Gradle.
 
 * *Unit8.* Java 8 and Java EE 7. Creating the Java EE version of the server-side app. Integration with UI.
 

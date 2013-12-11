@@ -21,7 +21,9 @@ Having a decent Internet connection (more than 2Mbps) is a must.
 
 This will be a  a mix of theory (40%) and practical work (60%). During this training attendees will develop an online auction. This auction should look good and be functional on desktops, tablets and smartphones.
 
-This training will consist of 10 weekly 3-hour online sessions on Sundays and 9 optional one-hour meetings in between.  We'll use screen-sharing software. Attendees will be able to hear and see the instructors and will communicate with them via a chat room. The first class will start on February 23rd, 2014 at 8AM New York time.
+This training will consist of 10 weekly 3-hour online sessions on Sundays and 9 optional one-hour meetings in between.  We'll use screen-sharing software. Attendees will be able to hear and see the instructors and will communicate with them via a chat room. 
+
+*The first class will start on February 23rd, 2014 at 8AM New York time.*
 
 If you'd like to receive automatic notifications about this course, please become a watcher of this GitHub repository.
 
@@ -59,6 +61,7 @@ We're still finalizing the tools, techniques, and technologies that will be used
 * http://docs.oracle.com/javaee/7/tutorial/doc/jaxrs-advanced.htm#GJJXE[JAX-RS] (Java API for RESTful Web services)
 * http://www.gradle.org/[Gradle]  (build automation)
 * https://code.google.com/p/spock/[Spock] or JUnit (unit testing and mocking)
+* Load testing with http://jmeter.apache.org/[jMeter].
 
 ==== DBMS 
 
@@ -84,7 +87,7 @@ Other professionals from Farata Systems may also be invited to share their exper
 
 === Tuition
 
-The cost of this course is $499.
+*The cost of this course is $499.*
 
 === Outline (draft)
 
@@ -96,15 +99,15 @@ The cost of this course is $499.
 
 _One week break for self study and catching up._
 
-* *Unit4.* AJAX. JSON. REST. Configuring Glassfish server. Creating the third prototype of the UI (consuming JSON from the server via HTTP protocol).
+* *Unit4.* AJAX. JSON. REST. Configuring Java EE application server. Creating the third prototype of the UI (consuming JSON from the server via HTTP protocol).
 
 * *Unit5.* Intro to WebSockets. Creating the forth prototype of the UI (Server pushes data to the client via WebSocket).
 
-* *Unit6.* Intro to Java Messaging. Configuring Messaging Server (mocking a matching engine?). Testing communication between Glassfish and messaging server. Load testing (JMeter).
+* *Unit6.* Intro to Java Messaging. Configuring Messaging Server (mocking a matching engine?). Testing communication between the Java EE application and messaging servers. Load testing with JMeter.
 
 _One week break for self study and catching up._
 
-* *Unit7.* TDD in Java. JUnit and Spoke. Configuring Oracle DBMS server. MyBatis framework. Build scripts with Gradle.
+* *Unit7.* Test-Driven Development in Java. JUnit and Spoke. Configuring Oracle DBMS server. MyBatis framework. Build scripts with Gradle.
 
 * *Unit8.* Java 8 and Java EE 7. Creating the Java EE version of the server-side app. Integration with UI.
 

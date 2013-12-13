@@ -1,14 +1,41 @@
 ==  Modern Web Application Development for Java Programmers
 
-Java ecosystem offers lots of different ways to architect, develop, and deploy a distributed Web application. The parallel ecosystem known as HTML5 offers lots of different ways to design, develop, and deploy the cross-platform UI that works on multiple Web browsers and variety of devices. This online training class has a goal to bring these two universes together.
+Java ecosystem offers lots of different ways to architect, develop, and deploy a distributed Web application. The parallel ecosystem known as HTML5 offers lots of different ways to design, develop, and deploy the cross-platform UI that works on multiple Web browsers and variety of devices. 
 
-The goal of this training is an immersion into an environment similar to a real-world enterprise setup. Be prepared to download, install and master lots of various software packages that will be used at different stages of training.
+This online training class will give you a practical knowledge of developing front and back end components by  immersing into an environment similar to a real-world enterprise setup. Be prepared to download, install and master lots of various software packages that will be used at different stages of training.
 
-The title reads _Web Development_, and we'll spend about 40% of the time developing UI in HTML5 and about 60% of the time will be spend in the server-side. 
+The title of this course reads _Web Development_, and we'll spend about 40% of the time developing User Interface in HTML5 and about 60% working on the server-side Java code. 
+
+=== Course Outline 
+
+* *Unit1.* Creating a wireframe of the UI of the online auction. Developing and Debugging in HTML/JavaScript. Fast pace introduction to JavaScript. Creating the first working prototype of the auction in pure HTML/JavaScript/CSS. Intro to GIT/Github. Think mobile:  Intro to Responsive Web Design. 
+
+* *Unit2.*  Becoming productive with JavaScript: Intro TypeScript. Overview of JavaScript cross-browser frameworks. Creating the Web project with  AngularJS framework. Styling with Bootstrap.  Mocking up server side. 
+
+* *Unit3.* AngularJS framework in depth. Introducing Test-Driven Development in JavaScript. Creating the second prototype of the UI. Build automation with Grunt. Package Management with Bower.
+
+_One week break for self study and catching up._
+
+* *Unit4.* AJAX. JSON. REST. Configuring Java EE application server. Creating the third prototype of the UI (consuming JSON from the server via HTTP protocol).
+
+* *Unit5.* Intro to WebSockets. Creating the forth prototype of the UI (Server pushes data to the client via WebSocket).
+
+* *Unit6.* Intro to Java Messaging. Configuring Messaging Server (mocking a matching engine?). Testing communication between the Java EE application and messaging servers. Load testing with JMeter.
+
+_One week break for self study and catching up._
+
+* *Unit7.* Test-Driven Development in Java. JUnit and Spoke. Configuring Oracle DBMS server. MyBatis framework. Build scripts with Gradle.
+
+* *Unit8.* What's new in Java SE 8 and Java EE 7. Creating the Java EE version of the server-side app. Integration with UI.
+
+* *Unit9.* Spring Framework (core, security). Creating the Spring version of the server-side app. Integration with UI.
+
+* *Unit10.* Reviewing and discussing the final version of the sample auction Web application.
+
 
 === Prerequisites 
 
-Attendees should commit about 20 hour a week for studying and working on the assignments from this course. We'll split the class into small teams to work on the assignments during the week, so your contribution will be required. 
+Attendees should plan on committing about 20 hour a week for studying and working on the assignments from this course. We'll split the class into small teams to work on the assignments during the week, so your contribution is required. 
 
 Attendees must have a working knowledge of core Java, and understanding of Java EE technologies.
 
@@ -19,17 +46,16 @@ Having a decent Internet connection (more than 2Mbps) is a must.
 
 === How
 
-This will be a  a mix of theory (40%) and practical work (60%). During this training attendees will develop an online auction. This auction should look good and be functional on desktops, tablets and smartphones.
+This class will be a  a mix of theory (40%) and practical work (60%). During this training attendees will develop an online auction. This auction should look good and be functional on desktops, tablets and smartphones.
 
-This training will consist of 10 weekly 3-hour online sessions on Sundays and 9 optional one-hour meetings in between.  We'll use screen-sharing software. Attendees will be able to hear and see the instructors and will communicate with them via a chat room. 
+This training will consist of 10 weekly 3-hour online live sessions on Sundays and 9 optional one-hour meetings in between.  We'll use screen-sharing software. Attendees will be able to hear and see the instructors and will communicate with them via a chat room. 
 
 *The first class will start on February 23rd, 2014 at 8AM New York time.*
 
-If you'd like to receive automatic notifications about this course, please become a watcher of this GitHub repository.
 
 === Tools and Technologies
 
-We're still finalizing the tools, techniques, and technologies that will be used in this project. Here's the current list of the software that we'll use in this course.
+Here's the current list of the software that we'll use in this course.
 
 ==== Front end
 
@@ -55,9 +81,9 @@ We're still finalizing the tools, techniques, and technologies that will be used
 * http://www.oracle.com/technetwork/java/javaee/overview/index.html[Java EE 7]
 * SQL: JDBC or http://mybatis.github.io/mybatis-3/[MyBatis]
 * https://spring.io/blog/2013/11/01/spring-framework-4-0-rc1-available[Spring 4 Framework] (some modules)
-* http://www.oracle.com/technetwork/java/javaee/downloads/index.html?ssSourceSiteId=ocomen[Oracle GlassFish application server] or http://www.wildfly.org/[JBoss Wildfly]
+* http://www.wildfly.org/[JBoss Wildfly] Application Server
 * WebSockets https://jcp.org/en/jsr/detail?id=356[on the server (JSR-356])
-* https://mq.java.net/[OpenMQ] or http://www.jboss.org/hornetq[JBoss HornetQ](Java Messaging)
+* http://www.jboss.org/hornetq[JBoss HornetQ](Java Messaging)
 * http://docs.oracle.com/javaee/7/tutorial/doc/jaxrs-advanced.htm#GJJXE[JAX-RS] (Java API for RESTful Web services)
 * http://www.gradle.org/[Gradle]  (build automation)
 * https://code.google.com/p/spock/[Spock] or JUnit (unit testing and mocking)
@@ -85,32 +111,3 @@ Three instructors will teach this course. All of them are practitioners employed
 
 Other professionals from Farata Systems may also be invited to share their experience in developing and deploying complex enterprise systems. 
 
-=== Tuition
-
-*The cost of this course is $499.*
-
-=== Outline (draft)
-
-* *Unit1.* Mocking the UI of the app. Developing and Debugging in HTML/JavaScript. Selected topics about JavaScript. Creating the first prototype of the app in pure HTML/JavaScript/CSS. Intro to GIT/Github. TypeScript? 
-
-* *Unit2.* Think mobile - Intro to Responsive Web Design. Becoming productive. Overview of JavaScript cross-browser frameworks. Generating the AngularJS project. Styling with Bootstrap. 
-
-* *Unit3.* AngularJS framework. Introducing TDD/BDD in JavaScript code. Creating the second prototype of the UI. Build scripts with Grunt. Package Management with Bower.
-
-_One week break for self study and catching up._
-
-* *Unit4.* AJAX. JSON. REST. Configuring Java EE application server. Creating the third prototype of the UI (consuming JSON from the server via HTTP protocol).
-
-* *Unit5.* Intro to WebSockets. Creating the forth prototype of the UI (Server pushes data to the client via WebSocket).
-
-* *Unit6.* Intro to Java Messaging. Configuring Messaging Server (mocking a matching engine?). Testing communication between the Java EE application and messaging servers. Load testing with JMeter.
-
-_One week break for self study and catching up._
-
-* *Unit7.* Test-Driven Development in Java. JUnit and Spoke. Configuring Oracle DBMS server. MyBatis framework. Build scripts with Gradle.
-
-* *Unit8.* Java 8 and Java EE 7. Creating the Java EE version of the server-side app. Integration with UI.
-
-* *Unit9.* Spring Framework (core, security). Creating the Spring version of the server-side app. Integration with UI.
-
-* *Unit10.* Reviewing and discussing the final version of the sample auction Web application.

@@ -50,7 +50,10 @@ This class will be a  a mix of theory (40%) and practical work (60%). During thi
 
 This training will consist of 10 weekly 3-hour online live sessions on Sundays and 9 optional one-hour meetings in between.  We'll use screen-sharing software. Attendees will be able to hear and see the instructors and will communicate with them via a chat room. 
 
-*The first class will start on February 23rd, 2014 at 8AM New York time.*
+*The upcoming training class (in Russian) will start on February 23rd, 2014 at 8AM New York time.*
+
+*The next training class (in English) will start in early April of 2014. We'll run it on Saturdays. Become a Watcher of this project to get further notifications.*
+
 
 
 === Tools and Technologies

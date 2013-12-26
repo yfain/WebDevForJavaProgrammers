@@ -100,7 +100,7 @@ Here's the current list of the software that we'll use in this course.
 
 * JetBrains TeamCity (continuous integration, code coverage)
 * Git (version control system), GitHub (Git hosting service)
-* IntelliJ IDEA IDE
+* IntelliJ IDEA IDE Ultimate. Our special thanks to JetBrains for providing free classroom license for all the students enrolled into this class.
 
 === Instructors
 

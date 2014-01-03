@@ -4,15 +4,15 @@ Java ecosystem offers lots of different ways to architect, develop, and deploy a
 
 This online training class will give you a practical knowledge of developing front and back end components by  immersing into an environment similar to a real-world enterprise setup. Be prepared to download, install and master lots of various software packages that will be used at different stages of training.
 
-The title of this course reads _Web Development_, and we'll spend about 40% of the time developing User Interface in HTML5 and about 60% working on the server-side Java code. 
+The title of this course reads _Web Development_, and we'll spend about 40% of the time developing User Interface in HTML5 and about 60% working on the server-side Java code. During the first three sessions we'll be working only with HTML and related JavaScript libraries. The server side Java programming starts on session 4, when the UI is ready.  
 
 === Course Outline 
 
-* *Unit1.* Creating a wireframe of the UI of the online auction. Developing and Debugging in HTML/JavaScript. Fast pace introduction to JavaScript. Creating the first working prototype of the auction in pure HTML/JavaScript/CSS. Intro to GIT/Github. Think mobile:  Intro to Responsive Web Design. 
+* *Unit1.* Creating a wireframe of the UI of the online auction. Developing and Debugging in HTML/JavaScript. Fast pace introduction to JavaScript. Intro to GIT/Github. Think mobile:  Intro to Responsive Web Design. Mocking up the UI. Creating the first prototype of the auction in pure HTML/JavaScript/CSS. Configuring the auction project in IntelliJ IDEA. Hello World in Grunt.
 
-* *Unit2.*  Becoming productive with JavaScript: Intro TypeScript. Overview of JavaScript cross-browser frameworks. Creating the Web project with  AngularJS framework. Styling with Bootstrap.  Mocking up server side. 
+* *Unit2.*  Becoming productive with JavaScript: Intro TypeScript. Overview of JavaScript cross-browser frameworks. Creating the Web project with  AngularJS framework. Configuring libraries in IntelliJ IDEA. Styling with Bootstrap.  Mocking up server side with Angular. Developing first two pages of the auction app.
 
-* *Unit3.* AngularJS framework in depth. Introducing Test-Driven Development in JavaScript. Creating the second prototype of the UI. Build automation with Grunt. Package Management with Bower.
+* *Unit3.* AngularJS framework in depth. Introducing Test-Driven Development in JavaScript. Creating test scripts for models, views, controllers with Jasmine.js. Creating the second prototype of the UI. Build automation with Grunt. Package Management with Bower.
 
 _One week break for self study and catching up._
 

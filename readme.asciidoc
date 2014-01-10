@@ -16,26 +16,26 @@ The title of this course reads _Web Development_, and we'll spend about 40% of t
 
 _One week break for self study and catching up._
 
-* *Unit4.* AJAX. JSON. REST. Configuring Java EE application server. Creating the third prototype of the UI (consuming JSON from the server via HTTP protocol).
+* *Unit4.* AJAX. JSON. REST, HATEOAS. Creating the third prototype of the UI (consuming JSON from the server via HTTP protocol).
 
-* *Unit5.* Intro to WebSockets. Creating the forth prototype of the UI (Server pushes data to the client via WebSocket).
+* *Unit5.* Java SE 8: major upgrade. Java EE 7: boost in developers' productivity. Configuring Java EE application server. Creating the Java EE version of the server-side app. Integration with UI.
 
-* *Unit6.* Intro to Java Messaging. Configuring Messaging Server (mocking a matching engine?). Testing communication between the Java EE application and messaging servers. Load testing with JMeter.
+* *Unit6.* Intro to WebSockets. Creating the forth prototype of the UI (Server pushes data to the client via WebSocket).
 
 _One week break for self study and catching up._
 
 * *Unit7.* Test-Driven Development in Java. JUnit and Spock. Creating data storage for online auction. Configuring Oracle DBMS server. JDBC vs JPA. SQL mapping framework MyBatis. Build scripts with Gradle. Database versioning and migration (Dev -> QA -> Prod).
 
-* *Unit8.* What's new in Java SE 8 and Java EE 7. Creating the Java EE version of the server-side app. Integration with UI.
+* *Unit8.* Intro to Java Messaging. Configuring Messaging Server (mocking a bidding engine). Testing communication between the Java EE application and messaging servers. Load testing with JMeter.
 
-* *Unit9.* Spring Framework (core, security). Creating the Spring version of the server-side app. Integration with UI.
+* *Unit9.* Spring Framework 4 (core, security, MVC, JdbcTemplate). Creating the Spring version of the server-side app. Integration with the auction UI.
 
-* *Unit10.* Reviewing and discussing the final version of the sample auction Web application.
+* *Unit10.* Code review and discussing the final version of the online auction Web application.
 
 
 === Prerequisites 
 
-Attendees should plan on committing about 20 hour a week for studying and working on the assignments from this course. We'll split the class into small teams to work on the assignments during the week, so your contribution is required. 
+Attendees should plan on committing about 15-20 hours a week for studying and working on the assignments from this course. We'll split the class into small teams to work on the assignments during the week, so your contribution is required. 
 
 Attendees must have a working knowledge of core Java, and understanding of Java EE technologies.
 

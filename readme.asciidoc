@@ -12,7 +12,7 @@ The title of this course reads _Web Development_, and we'll spend about 40% of t
 
 * *Unit2.*  Becoming productive with JavaScript: Intro TypeScript. Overview of JavaScript cross-browser frameworks. Creating the Web project with  AngularJS framework. Configuring libraries in IntelliJ IDEA. Styling with Bootstrap.  Mocking up server side with Angular. Developing first two pages of the auction app.
 
-* *Unit3.* AngularJS framework in depth. Introducing Test-Driven Development in JavaScript. Creating test scripts for models, views, controllers with Jasmine.js. Creating the second prototype of the UI. Build automation with Grunt. Package Management with Bower.
+* *Unit3.* AngularJS framework in depth. Introducing Test-Driven Development in JavaScript. Test-driven is not test-first. Creating test scripts for models, views, controllers with Jasmine.js. Creating the second prototype of the UI. Build automation with Grunt. Package Management with Bower.
 
 _One week break for self study and catching up._
 
@@ -24,7 +24,7 @@ _One week break for self study and catching up._
 
 _One week break for self study and catching up._
 
-* *Unit7.* Test-Driven Development in Java. JUnit and Spoke. Configuring Oracle DBMS server. MyBatis framework. Build scripts with Gradle.
+* *Unit7.* Test-Driven Development in Java. JUnit and Spock. Creating data storage for online auction. Configuring Oracle DBMS server. JDBC vs JPA. SQL mapping framework MyBatis. Build scripts with Gradle. Database versioning and migration (Dev -> QA -> Prod).
 
 * *Unit8.* What's new in Java SE 8 and Java EE 7. Creating the Java EE version of the server-side app. Integration with UI.
 

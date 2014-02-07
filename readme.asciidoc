@@ -53,8 +53,7 @@ Having a decent Internet connection (more than 2Mbps) is a must.
 
 This class will be a  a mix of theory (40%) and practical work (60%). During this training attendees will develop an online auction. This auction should look good and be functional on desktops, tablets and smartphones.
 
-This training will consist of 10 weekly 3-hour online live sessions on Saturdays or Sundays and 9 optional one-hour meetings in between.  We'll use screen-sharing software. Attendees will be able to hear and see the instructors and will communicate with them via a chat room. 
-
+This training will consist of 10 weekly 3-hour online live sessions on the weekend (see the registration page for your group for detail) and 9 optional one-hour meetings in between.  We'll use screen-sharing software. Attendees will be able to hear and see the instructors and will communicate with them via a chat room. 
 
 
 === Tools and Technologies

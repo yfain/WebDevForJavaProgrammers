@@ -37,7 +37,7 @@ _One week break for self study and catching up._
 
 Attendees should plan on committing about 15-20 hours a week for studying and working on the assignments from this course. We'll split the class into small teams to work on the assignments during the week, so your contribution is required. 
 
-Attendees must know basic HTML tags (see http://docs.webplatform.org/wiki/html/tutorials).
+Attendees must know basic HTML tags (see http://docs.webplatform.org/wiki/html/tutorials ).
 
 While we'll spend 15 min in Unit1 covering Git basics, we recommend you to watch http://flexblog.faratasystems.com/2013/11/08/intro-to-working-with-git-and-github[this video] before this training starts.
 

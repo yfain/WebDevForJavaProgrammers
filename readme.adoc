@@ -8,29 +8,29 @@ We'll spend about 40% of the time developing User Interface in HTML5 and about 6
 
 === Course Outline 
 
-* *Unit1.* Creating a wireframe of the UI of the online auction. Developing and Debugging in HTML/JavaScript. Fast pace introduction to JavaScript. Intro to GIT/Github. Think mobile:  Intro to Responsive Web Design. Mocking up the UI. Creating the first prototype of the auction in pure HTML/JavaScript/CSS. Configuring the auction project in IntelliJ IDEA. Here's link:unit1_timeline.png[the timeline] for this lesson. 
+* *Unit 1.* Creating a wireframe of the UI of the online auction. Developing and Debugging in HTML/JavaScript. Fast pace introduction to JavaScript. Intro to GIT/Github. Think mobile:  Intro to Responsive Web Design. Mocking up the UI. Creating the first prototype of the auction in pure HTML/JavaScript/CSS. Configuring the auction project in IntelliJ IDEA. Here's link:timeline.adoc#unit-1[the timeline] for this lesson.
 
-* *Unit2.*  Becoming productive with JavaScript: Intro TypeScript. Overview of JavaScript cross-browser frameworks. Creating the Web project with  AngularJS framework. Configuring libraries in IntelliJ IDEA. Styling with Bootstrap.  Mocking up server side with Angular. Developing first two pages of the auction app.Hello World in Grunt.
+* *Unit 2.*  Becoming productive with JavaScript: Intro TypeScript. Overview of JavaScript cross-browser frameworks. Creating the Web project with  AngularJS framework. Configuring libraries in IntelliJ IDEA. Styling with Bootstrap.  Mocking up server side with Angular. Developing first two pages of the auction app.Hello World in Grunt. Here's link:timeline.adoc#unit-2[the timeline] for this lesson.
 
-* *Unit3.* AngularJS framework in depth. Introducing Test-Driven Development in JavaScript. Test-driven is not test-first. Creating test scripts for models, views, controllers with Jasmine.js. Creating the second prototype of the UI. Build automation with Grunt. Package Management with Bower.
-
-_One week break for self study and catching up._
-
-* *Unit4.* AJAX. JSON. REST, HATEOAS. Creating the third prototype of the UI (consuming JSON from the server via HTTP protocol).
-
-* *Unit5.* Java SE 8: major upgrade. Java EE 7: boost in developers' productivity. Configuring Java EE application server. Creating the Java EE version of the server-side app. Integration with UI.
-
-* *Unit6.* Intro to WebSockets. Creating the forth prototype of the UI (Server pushes data to the client via WebSocket).
+* *Unit 3.* AngularJS framework in depth. Introducing Test-Driven Development in JavaScript. Test-driven is not test-first. Creating test scripts for models, views, controllers with Jasmine.js. Creating the second prototype of the UI. Build automation with Grunt. Package Management with Bower.
 
 _One week break for self study and catching up._
 
-* *Unit7.* Test-Driven Development in Java. JUnit and Spock. Creating data storage for online auction. Configuring Oracle DBMS server. JDBC vs JPA. SQL mapping framework MyBatis. Build scripts with Gradle. Database versioning and migration (Dev -> QA -> Prod).
+* *Unit 4.* AJAX. JSON. REST, HATEOAS. Creating the third prototype of the UI (consuming JSON from the server via HTTP protocol).
 
-* *Unit8.* Intro to Java Messaging. Configuring Messaging Server (mocking a bidding engine). Testing communication between the Java EE application and messaging servers. Load testing with JMeter.
+* *Unit 5.* Java SE 8: major upgrade. Java EE 7: boost in developers' productivity. Configuring Java EE application server. Creating the Java EE version of the server-side app. Integration with UI.
 
-* *Unit9.* Spring Framework 4 (core, security, MVC, JdbcTemplate). Creating the Spring version of the server-side app. Integration with the auction UI.
+* *Unit 6.* Intro to WebSockets. Creating the forth prototype of the UI (Server pushes data to the client via WebSocket).
 
-* *Unit10.* Code review and discussing the final version of the online auction Web application.
+_One week break for self study and catching up._
+
+* *Unit 7.* Test-Driven Development in Java. JUnit and Spock. Creating data storage for online auction. Configuring Oracle DBMS server. JDBC vs JPA. SQL mapping framework MyBatis. Build scripts with Gradle. Database versioning and migration (Dev -> QA -> Prod).
+
+* *Unit 8.* Intro to Java Messaging. Configuring Messaging Server (mocking a bidding engine). Testing communication between the Java EE application and messaging servers. Load testing with JMeter.
+
+* *Unit 9.* Spring Framework 4 (core, security, MVC, JdbcTemplate). Creating the Spring version of the server-side app. Integration with the auction UI.
+
+* *Unit 10.* Code review and discussing the final version of the online auction Web application.
 
 
 === Prerequisites 

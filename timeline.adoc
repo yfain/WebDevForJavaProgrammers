@@ -1,0 +1,79 @@
+== Unit Timelines
+
+
+=== Unit 1
+
+[cols="2", options="footer"]
+|===
+|Intro to this Training Course
+|5 min
+
+|Fast-paced Intro to JavaScript
+|45 min
+
+|Creating Auction App Mockups
+|10 min
+
+|_Hands-on:_ Auction App Prototype (v0, v1)
+|15 min
+
+|Responsive Web Design
+|20 min
+
+|Break
+|10 min
+
+|_Hands-on:_ Auction App Prototype (v2, v3)
+|20 min
+
+|Bootstrap Framework
+|20 min
+
+|_Hands-on:_ Auction App Prototype (v4, v5)
+|20 min
+
+|Basics of Git/GitHub
+|20 min
+
+|*Total*
+|*185 min*
+|===
+
+
+=== Unit 2
+
+[cols="2", options="footer"]
+|===
+|Overview of JavaScript Frameworks
+|5 min
+
+|TypeScript Basics
+|30 min
+
+|_Hands-on:_ TypeScript in Action
+|10 min
+
+|AngularJS Basics
+|30 min
+
+|_Demo:_ First AngularJS Application
+|10 min
+
+|Automation with Grunt and Yeoman
+|20 min
+
+|_Hands-on:_ AngularJS with TypeScript and Grunt
+|20 min
+
+|Configuring environment in IntelliJ Idea.
+|15 min
+
+|Develpoing Online Auction with TypeScript and AngularJS
+|20 min
+
+|_Hands-on:_ Developing Home page and Product Details page
+|20 min
+
+|*Total*
+|*180 min*
+|===

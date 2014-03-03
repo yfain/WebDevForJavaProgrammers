@@ -55,6 +55,10 @@ This class will be a  a mix of theory (40%) and practical work (60%). During thi
 
 This training will consist of 10 weekly 3-hour online live sessions on the weekend (see the registration page for your group for detail) and 9 optional one-hour meetings in between.  We'll use screen-sharing software. Attendees will be able to hear and see the instructors and will communicate with them via a chat room. 
 
+=== When's the Next Training
+
+The registration page of the upcoming class is http://www.eventbrite.com/e/modern-web-application-development-for-java-programmers-march-2014-tickets-10538467841[here]. 
+
 
 === Tools and Technologies
 
@@ -69,13 +73,12 @@ Here's the current list of the software that we'll use in this course.
 * http://www.typescriptlang.org/[TypeScript]
 * JSON
 * http://angularjs.org/[AngularJS framework]
-* http://getbootstrap.com/[Bootstrap framework]
+* http://getbootstrap.com/[Twitter Bootstrap framework]
 * Google Chrome Web Browser
 * WebSockets https://developer.mozilla.org/en-US/docs/WebSockets[on the client] 
 * http://gruntjs.com/[Grunt] (The JavaScript task runner)
 * https://npmjs.org/[NPM]
 * http://bower.io/[Bower]
-* http://balsamiq.com[Balsamiq Mockups]
 * https://github.com/pivotal/jasmine[Jasmine framework]
 
 ==== Middle Tier

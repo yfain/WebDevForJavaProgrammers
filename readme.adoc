@@ -12,11 +12,11 @@ We'll spend about 40% of the time developing User Interface in HTML5 and about 6
 
 * *Unit 2.*  Becoming productive with JavaScript: Intro TypeScript. Overview of JavaScript cross-browser frameworks. Creating the Web project with  AngularJS framework. Configuring libraries in IntelliJ IDEA. Styling with Bootstrap.  Mocking up server side with Angular. Developing first two pages of the auction app.Hello World in Grunt. Here's link:timeline.adoc#unit-2[the timeline] for this lesson.
 
-* *Unit 3.* AngularJS framework in depth. Introducing Test-Driven Development in JavaScript. Test-driven is not test-first. Creating test scripts for models, views, controllers with Jasmine.js. Creating the second prototype of the UI. Build automation with Grunt. Package Management with Bower.
+* *Unit 3.* AngularJS framework in depth.  Creating the second prototype of the UI. Build automation with Grunt. Package Management with Bower.
 
 _One week break for self study and catching up._
 
-* *Unit 4.* AJAX. JSON. REST, HATEOAS. Creating the third prototype of the UI (consuming JSON from the server via HTTP protocol).
+* *Unit 4.* Introducing Test-Driven Development in JavaScript. Test-driven is not test-first. Creating test scripts for models, views, controllers with Jasmine.js. AJAX. JSON. REST, HATEOAS. Creating the third prototype of the UI (consuming JSON from the server via HTTP protocol).
 
 * *Unit 5.* Java SE 8: major upgrade. Java EE 7: boost in developers' productivity. Configuring Java EE application server. Creating the Java EE version of the server-side app. Integration with UI.
 

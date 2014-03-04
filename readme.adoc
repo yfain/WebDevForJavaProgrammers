@@ -53,7 +53,7 @@ Having a decent Internet connection (more than 2Mbps) is a must.
 
 This class will be a  a mix of theory (40%) and practical work (60%). During this training attendees will develop an online auction. This auction should look good and be functional on desktops, tablets and smartphones.
 
-This training will consist of 10 weekly 3-hour online live sessions on the weekend (see the registration page for your group for detail) and 9 optional one-hour meetings in between.  We'll use screen-sharing software. Attendees will be able to hear and see the instructors and will communicate with them via a chat room. 
+This training will consist of 10 weekly online live sessions on the weekends (each session is about 3hr and 20min) and 9 optional-to-attend one-hour meetings in between.  We'll use screen-sharing software. Attendees will be able to hear and see the instructors and will communicate with them via a chat room. 
 
 === When's the Next Training
 
@@ -107,7 +107,7 @@ Here's the current list of the software that we'll use in this course.
 
 === Instructors
 
-Three instructors will teach this course. All of them are practitioners employed by http://faratasystems.com/[Farata Systems]:
+This course is taught by three instructors who are practitioners employed by http://faratasystems.com/[Farata Systems]:
 
 * *Yakov Fain (USA)* - Co-founder of Farata Systems, the IT consultancy. https://java.net/website/java-champions/bios.html[Java Champion]. Organizer of the http://www.meetup.com/NJFlex/[Princeton Java Users Group]. Authored and co-authored a number of technical books on programming. Yakov presented on various international conferences on Java and JavaScript related topics.
 

@@ -44,35 +44,68 @@
 
 [cols="2", options="footer"]
 |===
-|Overview of JavaScript Frameworks
-|5 min
+|Homework 1 Review
+|20 min
+
+|Overview of JavaScript Alternatives
+|10 min
 
 |TypeScript Basics
 |30 min
 
-|_Hands-on:_ TypeScript in Action
+|_Hands-on:_ Installing required tools, TypeScript in action
+|20 min
+
+|Overview of JavaScript Frameworks
 |10 min
 
-|AngularJS Basics
+|Getting Started with AngularJS
+|20 min
+
+|_Hands-on:_ First AngularJS Application
+|10 min
+
+|Dependency Injection in AngularJS
 |30 min
 
-|_Demo:_ First AngularJS Application
+|_Hands-on:_ Getting Started AngularJS version of Auction App.
+|30 min
+
+|*Total*
+|*180 min*
+|===
+
+
+= Unit 3
+
+[cols="2", options="footer"]
+|===
+|Homework 2 Review
+|20 min
+
+|AngularJS Scopes
+|20 min
+
+|AngularJS Routing
 |10 min
 
-|Automation with Grunt and Yeoman
+|_Hands-on:_ Enabling routing for the auction app
 |20 min
 
-|_Hands-on:_ AngularJS with TypeScript and Grunt
+|AngularJS Directives
+|30 min
+
+|AngularJS Filters
+|10 min
+
+|_Hands-on:_Decomposing the auction app UI using directives
 |20 min
 
-|Configuring environment in IntelliJ Idea.
-|15 min
-
-|Develpoing Online Auction with TypeScript and AngularJS
+|AngularJS: Interacting with REST services.
 |20 min
 
-|_Hands-on:_ Developing Home page and Product Details page
-|20 min
+|Setting up tools: node, npm, bower, grunt.
+|30 min
 
 |*Total*
 |*180 min*

@@ -1,18 +1,18 @@
 ==  Modern Web Application Development for Java Programmers
 
-Java ecosystem offers lots of different ways to architect, develop, and deploy a distributed Web application. The parallel ecosystem known as HTML5 offers lots of different ways to design, develop, and deploy the cross-platform UI that works on multiple Web browsers and variety of devices. 
+Java ecosystem offers lots of different ways to architect, develop, and deploy a distributed Web application. The parallel ecosystem known as HTML5 offers lots of different ways to design, develop, and deploy the cross-platform UI that works on multiple Web browsers and variety of devices.
 
 This online training class will give you a practical knowledge of developing front and back end components by  immersing into an environment similar to a real-world enterprise setup. Be prepared to download, install and master lots of various software packages that will be used at different stages of training.
 
-We'll spend about 40% of the time developing User Interface in HTML5 and about 60% working on the server-side Java code. During the first three sessions we'll be working only with HTML and related JavaScript libraries. The server side Java programming starts on session 4, when the UI is ready.  
+We'll spend about 40% of the time developing User Interface in HTML5 and about 60% working on the server-side Java code. During the first three sessions we'll be working only with HTML and related JavaScript libraries. The server side Java programming starts on session 4, when the UI is ready.
 
-=== Course Outline 
+=== Course Outline
 
 * *Unit 1.* Creating a wireframe of the UI of the online auction. Developing and Debugging in HTML/JavaScript. Fast pace introduction to JavaScript. Intro to GIT/Github. Think mobile:  Intro to Responsive Web Design. Mocking up the UI. Creating the first prototype of the auction in pure HTML/JavaScript/CSS. Configuring the auction project in IntelliJ IDEA. Here's link:timeline.adoc#unit-1[the timeline] for this lesson.
 
 * *Unit 2.*  Becoming productive with JavaScript: Intro TypeScript. Overview of JavaScript cross-browser frameworks. Creating the Web project with  AngularJS framework. Configuring libraries in IntelliJ IDEA. Styling with Bootstrap.  Mocking up server side with Angular. Developing first two pages of the auction app.Hello World in Grunt. Here's link:timeline.adoc#unit-2[the timeline] for this lesson.
 
-* *Unit 3.* AngularJS framework in depth.  Creating the second prototype of the UI. Build automation with Grunt. Package Management with Bower.
+* *Unit 3.* AngularJS framework in depth. Creating the second prototype of the UI. Build automation with Grunt. Package Management with Bower. Here's link:timeline.adoc#unit-3[the timeline] for this lesson.
 
 _One week break for self study and catching up._
 
@@ -33,9 +33,9 @@ _One week break for self study and catching up._
 * *Unit 10.* Code review and discussing the final version of the online auction Web application.
 
 
-=== Prerequisites 
+=== Prerequisites
 
-Attendees should plan on committing about 15-20 hours a week for studying and working on the assignments from this course. We'll split the class into small teams to work on the assignments during the week, so your contribution is required. 
+Attendees should plan on committing about 15-20 hours a week for studying and working on the assignments from this course. We'll split the class into small teams to work on the assignments during the week, so your contribution is required.
 
 Attendees must know basic HTML tags (see http://docs.webplatform.org/wiki/html/tutorials ).
 
@@ -53,11 +53,11 @@ Having a decent Internet connection (more than 2Mbps) is a must.
 
 This class will be a  a mix of theory (40%) and practical work (60%). During this training attendees will develop an online auction. This auction should look good and be functional on desktops, tablets and smartphones.
 
-This training will consist of 10 weekly online live sessions on the weekends (each session is about 3hr and 20min) and 9 optional-to-attend one-hour meetings in between.  We'll use screen-sharing software. Attendees will be able to hear and see the instructors and will communicate with them via a chat room. 
+This training will consist of 10 weekly online live sessions on the weekends (each session is about 3hr and 20min) and 9 optional-to-attend one-hour meetings in between.  We'll use screen-sharing software. Attendees will be able to hear and see the instructors and will communicate with them via a chat room.
 
 === When's the Next Training
 
-The registration page of the upcoming class is http://www.eventbrite.com/e/modern-web-application-development-for-java-programmers-march-2014-tickets-10538467841[here]. 
+The registration page of the upcoming class is http://www.eventbrite.com/e/modern-web-application-development-for-java-programmers-march-2014-tickets-10538467841[here].
 
 
 === Tools and Technologies
@@ -75,7 +75,7 @@ Here's the current list of the software that we'll use in this course.
 * http://angularjs.org/[AngularJS framework]
 * http://getbootstrap.com/[Twitter Bootstrap framework]
 * Google Chrome Web Browser
-* WebSockets https://developer.mozilla.org/en-US/docs/WebSockets[on the client] 
+* WebSockets https://developer.mozilla.org/en-US/docs/WebSockets[on the client]
 * http://gruntjs.com/[Grunt] (The JavaScript task runner)
 * https://npmjs.org/[NPM]
 * http://bower.io/[Bower]
@@ -95,9 +95,9 @@ Here's the current list of the software that we'll use in this course.
 * https://code.google.com/p/spock/[Spock] or JUnit (unit testing and mocking)
 * Load testing with http://jmeter.apache.org/[jMeter].
 
-==== DBMS 
+==== DBMS
 
-* Oracle  
+* Oracle
 
 ==== Miscellaneous
 
@@ -115,5 +115,4 @@ This course is taught by three instructors who are practitioners employed by htt
 
 * *Anton Moiseev (Russia)* - Lead software developer in Farata Systems. Specializes in developing e-Commerce applications. Enjoys everything HTML5-related. Authored and taught trainings on developing Web applications with Ext JS framework.
 
-Other professionals from Farata Systems may also be invited to share their experience in developing and deploying complex enterprise systems. 
-
+Other professionals from Farata Systems may also be invited to share their experience in developing and deploying complex enterprise systems.

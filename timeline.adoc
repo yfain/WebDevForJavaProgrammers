@@ -45,7 +45,7 @@
 [cols="2", options="footer"]
 |===
 |Homework 1 Review
-|20 min
+|30 min
 
 |Overview of JavaScript Alternatives
 |10 min
@@ -55,6 +55,9 @@
 
 |_Hands-on:_ Installing required tools, TypeScript in action
 |20 min
+
+|Break
+|10 min
 
 |Overview of JavaScript Frameworks
 |10 min
@@ -72,7 +75,7 @@
 |30 min
 
 |*Total*
-|*180 min*
+|*200 min*
 |===
 
 
@@ -81,7 +84,7 @@
 [cols="2", options="footer"]
 |===
 |Homework 2 Review
-|20 min
+|30 min
 
 |AngularJS Scopes
 |20 min
@@ -91,6 +94,9 @@
 
 |_Hands-on:_ Enabling routing for the auction app
 |20 min
+
+|Break
+|10 min
 
 |AngularJS Directives
 |30 min
@@ -108,5 +114,5 @@
 |30 min
 
 |*Total*
-|*180 min*
+|*200 min*
 |===

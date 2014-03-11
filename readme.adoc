@@ -1,6 +1,31 @@
-==  Modern Web Application Development for Java Programmers
+= Modern Web Application Development for Java Programmers
+© 2014 Farata Systems LLC.
+2014-03-11
+:revdate: 2014-03-11 12:00:32 -0600
+:linkattrs:
+:ast: &ast;
+:y: &#10003;
+:n: &#10008;
+:y: icon:check-sign[role="green"]
+:n: icon:check-minus[role="red"]
+:c: icon:file-text-alt[role="blue"]
+:toc:
+:toc-placement!:
+:toc-title: Table of content
+:toclevels: 3
+:idprefix:
+:idseparator: -
+:sectanchors:
+:icons: font
+:source-highlighter: highlight.js
+:highlightjs-theme: idea
+:experimental:
 
 Java ecosystem offers lots of different ways to architect, develop, and deploy a distributed Web application. The parallel ecosystem known as HTML5 offers lots of different ways to design, develop, and deploy the cross-platform UI that works on multiple Web browsers and variety of devices.
+
+toc::[]
+
+== Enter The Modern Web Application Development
 
 This online training class will give you a practical knowledge of developing front and back end components by  immersing into an environment similar to a real-world enterprise setup. Be prepared to download, install and master lots of various software packages that will be used at different stages of training.
 

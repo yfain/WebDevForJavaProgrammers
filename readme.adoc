@@ -11,7 +11,7 @@
 :c: icon:file-text-alt[role="blue"]
 :toc:
 :toc-placement!:
-:toc-title: Table of content
+:toc-title: Table of Contents
 :toclevels: 3
 :idprefix:
 :idseparator: -
@@ -66,7 +66,6 @@ While we'll spend 15 min in Unit1 covering Git basics, we recommend you to watch
 
 Attendees must have a working knowledge of core Java, and understanding of Java EE technologies.
 
-
 Each attendee has to have a modern computer with plenty of disk space (4+ GB of RAM is recommended).
 
 Having a decent Internet connection (more than 2Mbps) is a must.
@@ -81,7 +80,6 @@ This training will consist of 10 weekly online live sessions on the weekends (ea
 === When's the Next Training
 
 The registration page of the upcoming class is http://www.eventbrite.com/e/modern-web-application-development-for-java-programmers-march-2014-tickets-10538467841[here].
-
 
 === Tools and Technologies
 
@@ -126,39 +124,47 @@ Here's the current list of the software that we'll use in this course.
 
 * JetBrains TeamCity (continuous integration, code coverage)
 * Git (version control system), GitHub (Git hosting service)
-* IntelliJ IDEA IDE Ultimate. Our special thanks to JetBrains for providing free classroom license for all the students enrolled into this class.
+* IntelliJ IDEA IDE Ultimate. Our special thanks to JetBrains for providing free http://www.jetbrains.com/idea/buy/classroom_license.html[classroom license] for all the students enrolled into this class.
 
 === FAQ
 
 1. _I'm a professional programmer, but have never actually worked in Java.  I took some classes both in SE and EE, worked though several Java books.  Would it be enough?_
++
 
 We don't know. It depends on your ability to learn new material. If your Java is a little rusty, start watching http://www.youtube.com/user/yfain[Java video lessons by Yakov Fain] - they are being published weekly.
 
-_2. I have Eclipse Juno with Java EE 7.  I'm currently taking Intro to Android Programming and would prefer to keep my existing setup._
+2. _I have Eclipse Juno with Java EE 7.  I'm currently taking Intro to Android Programming and would prefer to keep my existing setup._
++
 
 In this training we use IntelliJ IDEA IDE as it has good support of both JavaScript and Java. All instructions will be provided for this IDE only. Instructors will not be addressing issues related to Eclipse IDE.
 
-_3. What other software do I need to have installed on my laptop?_
+3. _What other software do I need to have installed on my laptop?_
++
 
 We're providing instructions for the software required for each lesson as we proceed.  
 
-_4. How deep knowledge of SQL is required? I'm OK with not too complicated queries._
+4. _How deep knowledge of SQL is required? I'm OK with not too complicated queries._
++
 
 No deep knowledge of SQL is required.
 
-_5. Are we starting JavaScript practically from scratch?_
+5. _Are we starting JavaScript practically from scratch?_
++
 
 Yes, but in a fast pace.
 
-_6.  How much "extra help" will be available if I'd be having a trouble with something?_
+6. _How much "extra help" will be available if I'd be having a trouble with something?_
++
 
 Students communicate with each other by posting questions/answers in the forum. Instructors are monitoring this list too. Also, there is one hour consultation time between the lesson where instructors answer questions.
 
-_7.  Do I need to know GIT for this course?_
+7. _Do I need to know GIT for this course?_
++
 
 Yes, you do. Please watch http://www.youtube.com/watch?v=MXDRIUGW3X4[this video] to get familiar with GIT and GitHub. 
 
-_8. I'm still not sure if I can absorb all these materials within 10 weeks_
+8. _I'm still not sure if I can absorb all these materials within 10 weeks_
++
 
 This is an intensive training that's targeted busy professionals who need to master new software in a fast pace. If you can't commit 15-20 hours a week for studying, do not enroll as you'll be wasting money.
 

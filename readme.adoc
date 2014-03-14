@@ -33,11 +33,11 @@ We'll spend about 40% of the time developing User Interface in HTML5 and about 6
 
 === Course Outline
 
-* *Unit 1.* Creating a wireframe of the UI of the online auction. Developing and Debugging in HTML/JavaScript. Fast pace introduction to JavaScript. Intro to GIT/Github. Think mobile:  Intro to Responsive Web Design. Mocking up the UI. Creating the first prototype of the auction in pure HTML/JavaScript/CSS. Configuring the auction project in IntelliJ IDEA. Styling with Bootstrap. Here's link:timeline.adoc#unit-1[the timeline] for this lesson.
+* *Unit 1.* Creating a wireframe of the UI of the online auction. Developing and Debugging in HTML/JavaScript. Fast pace introduction to JavaScript. Intro to GIT/Github. Think mobile:  Intro to Responsive Web Design. Mocking up the UI. Creating the first prototype of the auction in pure HTML/JavaScript/CSS. Configuring the auction project in IntelliJ IDEA. Styling with Bootstrap. Here's link:timeline.adoc#unit-1[the timeline] of this lesson.
 
-* *Unit 2.*  Becoming productive with JavaScript: Intro TypeScript.  CIntro to Google AngularJS framework. Configuring libraries in IntelliJ IDEA.  Re-creating the first two pages of the auction app. Installing NPM and Grunt.  Configuring Grunt. Here's link:timeline.adoc#unit-2[the timeline] for this lesson.
+* *Unit 2.*  Becoming productive with JavaScript: Intro TypeScript.  Intro to Google AngularJS framework. Configuring libraries in IntelliJ IDEA.  Re-creating the first two pages of the auction app. Installing NPM and Grunt.  Configuring Grunt. Here's link:timeline.adoc#unit-2[the timeline] for this lesson.
 
-* *Unit 3.* Creating the second prototype of the UI with AngularJS. Scopes. Adding more tools: package magagement with Bower. Project scaffolding with Yeoman. Here's link:timeline.adoc#unit-3[the timeline] for this lesson.
+* *Unit 3.* Creating the second prototype of the UI with AngularJS. Scopes. Adding more tools: package management with Bower. Project scaffolding with Yeoman. Here's link:timeline.adoc#unit-3[the timeline] of this lesson.
 
 * *Unit 4.* AngularJS framework in depth. Forms, REST interaction and custom reusable components. Mocking up server side with AngularJS.
 

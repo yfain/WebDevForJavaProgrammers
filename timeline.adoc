@@ -9,7 +9,7 @@
 |5 min
 
 |Fast-paced Intro to JavaScript
-|45 min
+|60 min
 
 |Creating Auction App Mockups
 |10 min
@@ -32,11 +32,11 @@
 |_Hands-on:_ Auction App Prototype (v4, v5)
 |20 min
 
-|Basics of Git/GitHub
+|Using Git/GitHub in this course
 |20 min
 
 |*Total*
-|*185 min*
+|*200 min*
 |===
 
 

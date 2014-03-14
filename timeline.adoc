@@ -6,7 +6,7 @@
 [cols="2", options="footer"]
 |===
 |Intro to this Training Course
-|5 min
+|10 min
 
 |Fast-paced Intro to JavaScript
 |60 min
@@ -15,7 +15,7 @@
 |10 min
 
 |_Hands-on:_ Auction App Prototype (v0, v1)
-|15 min
+|20 min
 
 |Responsive Web Design
 |20 min
@@ -33,7 +33,7 @@
 |20 min
 
 |Using Git/GitHub in this course
-|20 min
+|10 min
 
 |*Total*
 |*200 min*

@@ -1,5 +1,29 @@
-== Unit Timelines
+= Unit Timelines
+© 2014 Farata Systems LLC.
+:revdate: 2014-03-18 14:54:36 -0600
+:linkattrs:
+:ast: &ast;
+:y: &#10003;
+:n: &#10008;
+:y: icon:check-sign[role="green"]
+:n: icon:check-minus[role="red"]
+:c: icon:file-text-alt[role="blue"]
+:toc: auto
+:toc-placement: auto
+:toc-position: right
+:toc-title: Table of content
+:toclevels: 3
+:idprefix:
+:idseparator: -
+:sectanchors:
+:icons: font
+:source-highlighter: highlight.js
+:highlightjs-theme: idea
+:experimental:
 
+toc::[]
+
+== Timelines
 
 === Unit 1
 
@@ -79,7 +103,7 @@
 |===
 
 
-= Unit 3
+=== Unit 3
 
 [cols="2", options="footer"]
 |===
@@ -104,7 +128,7 @@
 |AngularJS Filters
 |10 min
 
-|_Hands-on:_Decomposing the auction app UI using directives
+|_Hands-on:_ Decomposing the auction app UI using directives
 |20 min
 
 |AngularJS: Interacting with REST services.
@@ -115,4 +139,52 @@
 
 |*Total*
 |*200 min*
+|===
+
+=== Unit 4
+
+[cols="2", options="footer"]
+|===
+|Code Quality Tools (+jshint+, +tslint+)
+|15 min
+
+2+|*Test Driven Development*
+
+|Test Driven Development
+|10 min
+
+|Test Runners: Karma
+|15 min
+
+|_Hands-on:_ Initializing Karma project, run tests, IDE integration
+|20 min
+
+|Jasmine
+|15 min
+
+|AngularJS specific testing Angular DI, mocks (`$httpBackend`), view tests, controllers
+|20 min
+
+|_Hands-on:_ TDD with AngularJS
+|20 min
+
+|*Total*
+|*115 min*
+
+|Break
+|10 min
+
+|AJAX, JSON, REST, HATEOAS, CORS
+|40 min
+
+|Angular Components: `AngularResource`, `RestAngular`
+|15 min
+
+|_Hands-on_: Consuming JSON services from a fake server - http://apiary.io[apiary]
+|20 min
+
+2+|_Home work_: Creating the third prototype of the UI:  cover components with tests, consuming JSON from the server via HTTP protocol.
+
+|*Total*
+|*85 min*
 |===

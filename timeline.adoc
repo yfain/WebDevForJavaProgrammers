@@ -141,7 +141,7 @@ toc::[]
 |*200 min*
 |===
 
-=== Unit 4
+=== Unit 5
 
 [cols="2", options="footer"]
 |===
@@ -153,14 +153,17 @@ toc::[]
 |Test Driven Development
 |10 min
 
+|Jasmine
+|10 min
+
+|_Hands-on:_ Using Jasmine
+|10 min
+
 |Test Runners: Karma
-|15 min
+|10 min
 
 |_Hands-on:_ Initializing Karma project, run tests, IDE integration
 |20 min
-
-|Jasmine
-|15 min
 
 |AngularJS specific testing Angular DI, mocks (`$httpBackend`), view tests, controllers
 |20 min

@@ -41,7 +41,7 @@ We'll spend about 40% of the time developing User Interface in HTML5 and about 6
 
 * *Unit 4.* AngularJS framework in depth. Forms, REST interaction and custom reusable components. Mocking up server side with AngularJS.
 
-* *Unit 5.* Introducing Test-Driven Development in JavaScript. Test-driven is not test-first. Creating test scripts for models, views, controllers with Jasmine.js. AJAX. JSON. REST, HATEOAS. Creating the third prototype of the UI (consuming JSON from the server via HTTP protocol).
+* *Unit 5.* Introducing Test-Driven Development in JavaScript. Test-driven is not test-first. Creating test scripts for models, views, controllers with Jasmine.js. AJAX. JSON. REST, HATEOAS. Creating the third prototype of the UI (consuming JSON from the server via HTTP protocol). Here's link:timeline.adoc#unit-5[the timeline] for this lesson.
 
 _One week break for self study and catching up._
 

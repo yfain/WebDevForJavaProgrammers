@@ -45,13 +45,41 @@ We'll spend about 40% of the time developing User Interface in HTML5 and about 6
 
 _One week break for self study and catching up._
 
-* *Unit 6.* Java SE 8: major upgrade. Java EE 7: boost in developers' productivity. Configuring Java EE application server. Creating the Java EE version of the server-side app. Integration with UI.
+* *Unit 6.* 
++
 
-* *Unit 7.* Intro to WebSockets. Creating the forth prototype of the UI (Server pushes data to the client via WebSocket).
+_Prerequisites_
++
 
-* *Unit 8.* Test-Driven Development in Java. JUnit and Spock. Creating data storage for online auction. Configuring Oracle DBMS server. JDBC vs JPA. SQL mapping framework MyBatis. Build scripts with Gradle. Database versioning and migration (Dev -> QA -> Prod).
+* Install JDK8
+* Install WildFly server (_TBD_ link)
+* Configure IDE (_TBD_ link to video) 
++
 
-* *Unit 9.* Intro to Java Messaging. Configuring Messaging Server (mocking a bidding engine). Testing communication between the Java EE application and messaging servers. Load testing with JMeter.
+_Java SE 8_. Overview of the new features (lambda-expressions, Streams API, Default Methods in interfaces). Applying bulk operations on the collections of auctions items.  Java build automation with Gradle. Test-Driven Development in Java. JUnit and Spock. Here's link:timeline.adoc#unit-6[the timeline] of this lesson.
+
+* *Unit 7.* _Java EE 7_. Overview of the new features. Creating the Java EE version of the server-side auction (JAX-RS, CDI). Intro to WebSockets (WebSocket API, JSR-356). Pushing the auction data to the client using WebSocket.
+
+* *Unit 8.*
++
+
+_Prerequisites_
+
+* Install DBMS server
+* Configure IDE to connect to the database
++
+
+Creating data storage for online auction. JDBC vs JPA. SQL mapping framework MyBatis. Database versioning and migration (Dev -> QA -> Prod).
+
+* *Unit 9.* 
++
+
+_Prerequisites_
+
+* _TDB_
++
+
+Intro to Java Messaging. Configuring Messaging Server (mocking a bidding engine). Testing communication between the Java EE application and messaging servers. Load testing with JMeter.
 
 * *Unit 10.* Spring Framework 4 (core, security, MVC, JdbcTemplate). Creating the Spring version of the server-side app. Integration with the auction UI. Code review and discussing the final version of the online auction Web application.
 

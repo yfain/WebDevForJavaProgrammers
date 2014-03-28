@@ -191,3 +191,47 @@ toc::[]
 |*Total*
 |*85 min*
 |===
+
+
+=== Unit 6
+
+[cols="2", options="footer"]
+|===
+|Java SE 8. Overview of the new features
+|60 min
+
+|_Hands-on_: Quick intro to Gradle
+|20 min
+
+|Test-Driven Development in Java
+|45 min
+
+|_Hands-on_: Running unit tests and collection the test results
+|15 min
+
+|_Hands-on_: Moving from fake REST server to real one (WildFly).
+|30 min
+
+|*Total*
+|*tbd min*
+|===
+
+=== Unit 7
+
+[cols="2", options="footer"]
+|===
+|Java EE 7. Overview of the new features
+|30 min
+
+|Contexts and Dependency Injection for the Java EE Platform (CDI)
+|30 min
+
+|JAX-RS 2.0: Building restful Web Services
+|60 min
+
+|WebSocket: Pushing data to the server
+|60 min
+
+|*Total*
+|tbd
+|===

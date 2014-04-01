@@ -105,10 +105,6 @@ This class will be a  a mix of theory (40%) and practical work (60%). During thi
 
 This training will consist of 10 weekly online live sessions on the weekends (each session is about 3hr and 20min) and 9 optional-to-attend one-hour meetings in between.  We'll use screen-sharing software. Attendees will be able to hear and see the instructors and will communicate with them via a chat room.
 
-=== When's the Next Training
-
-The registration page of the upcoming class is http://www.eventbrite.com/e/modern-web-application-development-for-java-programmers-march-2014-tickets-10538467841[here].
-
 === Tools and Technologies
 
 Here's the current list of the software that we'll use in this course.
@@ -195,6 +191,11 @@ Yes, you do. Please watch http://www.youtube.com/watch?v=MXDRIUGW3X4[this video]
 +
 
 This is an intensive training that's targeted busy professionals who need to master new software in a fast pace. If you can't commit 15-20 hours a week for studying, do not enroll as you'll be wasting money.
+
+9. _When's the Next Training_
+
+The information about the next public training will be announced at http://www.faratasystems.com. 
+You can also request this training to be conducted for your organization online. Just email you inquiry to training@faratasystems.com.
 
 === Instructors
 

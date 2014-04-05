@@ -51,14 +51,22 @@ _One week break for self study and catching up._
 _Prerequisites_
 +
 
-* Install JDK8
+* Download and install http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html[Java SE Development Kit 8] 
++
+
+_Java SE 8_. Overview of the selected new features (lambda-expressions, Streams API, Default Methods in interfaces). Applying bulk operations on the collections of auctions items.  Java build automation with Gradle. Test-Driven Development in Java. JUnit and Spock. Here's link:timeline.adoc#unit-6[the timeline] of this lesson.
+
+* *Unit 7.* 
++
+
+_Prerequisites_
++
+
 * Install WildFly server (_TBD_ link)
 * Configure IDE (_TBD_ link to video) 
 +
 
-_Java SE 8_. Overview of the new features (lambda-expressions, Streams API, Default Methods in interfaces). Applying bulk operations on the collections of auctions items.  Java build automation with Gradle. Test-Driven Development in Java. JUnit and Spock. Here's link:timeline.adoc#unit-6[the timeline] of this lesson.
-
-* *Unit 7.* _Java EE 7_. Overview of the new features. Creating the Java EE version of the server-side auction (JAX-RS, CDI). Intro to WebSockets (WebSocket API, JSR-356). Pushing the auction data to the client using WebSocket.
+_Java EE 7_. Overview of the new features. Creating the Java EE version of the server-side auction (JAX-RS, CDI). Intro to WebSockets (WebSocket API, JSR-356). Pushing the auction data to the client using WebSocket.
 
 * *Unit 8.*
 +

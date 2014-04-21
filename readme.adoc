@@ -87,7 +87,7 @@ _Prerequisites_
 * _TDB_
 +
 
-Intro to Java Messaging. Configuring Messaging Server (mocking a bidding engine). Testing communication between the Java EE application and messaging servers. Load testing with JMeter.
+Intro to Java Messaging. Configuring Messaging Server (mocking a bidding engine). Testing communication between the Java EE application and messaging servers. 
 
 * *Unit 10.* Spring Framework 4 (core, security, MVC, JdbcTemplate). Creating the Spring version of the server-side app. Integration with the auction UI. Code review and discussing the final version of the online auction Web application.
 

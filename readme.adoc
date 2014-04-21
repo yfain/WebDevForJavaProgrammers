@@ -146,7 +146,6 @@ Here's the current list of the software that we'll use in this course.
 * http://docs.oracle.com/javaee/7/tutorial/doc/jaxrs-advanced.htm#GJJXE[JAX-RS] (Java API for RESTful Web services)
 * http://www.gradle.org/[Gradle]  (build automation)
 * https://code.google.com/p/spock/[Spock] or JUnit (unit testing and mocking)
-* Load testing with http://jmeter.apache.org/[jMeter].
 
 ==== DBMS
 

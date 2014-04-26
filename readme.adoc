@@ -79,10 +79,8 @@ _Prerequisites_
 
 Creating data storage for online auction. JDBC vs JPA. SQL mapping framework MyBatis. 
 
-* *Unit 9.* 
-+
+* *Unit 9.* Intro to Java Messaging. JMS 2.0. JNDI.  Configuring Messaging Server (mocking a bidding engine). Bringing messaging into the Auction application.
 
-Intro to Java Messaging. JMS 2.0. JNDI.  Configuring Messaging Server (mocking a bidding engine). Bringging messaging into the Auction application.
 
 * *Unit 10.* Spring Framework 4 (core, security, MVC, JdbcTemplate). Creating the Spring version of the server-side app. Integration with the auction UI. Code review and discussing the Spring version of the Auction Web application.
 

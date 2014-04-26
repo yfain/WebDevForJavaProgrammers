@@ -35,7 +35,7 @@ We'll spend about 40% of the time developing User Interface in HTML5 and about 6
 
 * *Unit 1.* Creating a wireframe of the UI of the online auction. Developing and Debugging in HTML/JavaScript. Fast pace introduction to JavaScript. Intro to GIT/Github. Think mobile:  Intro to Responsive Web Design. Mocking up the UI. Creating the first prototype of the auction in pure HTML/JavaScript/CSS. Configuring the auction project in IntelliJ IDEA. Styling with Bootstrap. Here's link:timeline.adoc#unit-1[the timeline] of this lesson.
 
-* *Unit 2.*  Becoming productive with JavaScript: Intro TypeScript.  Intro to Google AngularJS framework. Configuring libraries in IntelliJ IDEA.  Re-creating the first two pages of the auction app. Installing NPM and Grunt.  Configuring Grunt. Here's link:timeline.adoc#unit-2[the timeline] for this lesson.
+* *Unit 2.*   Intro to Google AngularJS framework. Configuring libraries in IntelliJ IDEA.  Re-creating the first two pages of the auction app. Installing NPM and Grunt.  Configuring Grunt. Here's link:timeline.adoc#unit-2[the timeline] for this lesson.
 
 * *Unit 3.* Creating the second prototype of the UI with AngularJS. Scopes. Adding more tools: package management with Bower. Project scaffolding with Yeoman. Here's link:timeline.adoc#unit-3[the timeline] of this lesson.
 
@@ -77,20 +77,14 @@ _Prerequisites_
 * Configure IDE to connect to the database
 +
 
-Creating data storage for online auction. JDBC vs JPA. SQL mapping framework MyBatis. Database versioning and migration (Dev -> QA -> Prod).
+Creating data storage for online auction. JDBC vs JPA. SQL mapping framework MyBatis. 
 
 * *Unit 9.* 
 +
 
-_Prerequisites_
+Intro to Java Messaging. JMS 2.0. JNDI.  Configuring Messaging Server (mocking a bidding engine). Bringging messaging into the Auction application.
 
-* _TDB_
-+
-
-Intro to Java Messaging. Configuring Messaging Server (mocking a bidding engine). Testing communication between the Java EE application and messaging servers. Load testing with JMeter.
-
-* *Unit 10.* Spring Framework 4 (core, security, MVC, JdbcTemplate). Creating the Spring version of the server-side app. Integration with the auction UI. Code review and discussing the final version of the online auction Web application.
-
+* *Unit 10.* Spring Framework 4 (core, security, MVC, JdbcTemplate). Creating the Spring version of the server-side app. Integration with the auction UI. Code review and discussing the Spring version of the Auction Web application.
 
 === Prerequisites
 
@@ -98,22 +92,22 @@ Attendees should plan on committing about 15-20 hours a week for studying and wo
 
 Attendees must know basic HTML tags (see http://docs.webplatform.org/wiki/html/tutorials ).
 
-While we'll spend 15 min in Unit1 covering Git basics, we recommend you to watch http://flexblog.faratasystems.com/2013/11/08/intro-to-working-with-git-and-github[this video] before this training starts.
+We'll be using Git version control system during this course. To get familiar with Git and GitHub watch http://flexblog.faratasystems.com/2013/11/08/intro-to-working-with-git-and-github[our training video] before this training starts.
 
 Attendees must have a working knowledge of core Java, and understanding of Java EE technologies.
 
 Each attendee has to have a modern computer with plenty of disk space (4+ GB of RAM is recommended).
 
-Having a decent Internet connection (more than 2Mbps) is a must.
+Having a decent Internet connection (more than 4Mbps for download) is a must.
 
 
 === How
 
 This class will be a  a mix of theory (40%) and practical work (60%). During this training attendees will develop an online auction. This auction should look good and be functional on desktops, tablets and smartphones.
 
-This training will consist of 10 weekly online live sessions on the weekends (each session is about 3hr and 20min) and 9 optional-to-attend one-hour meetings in between.  We'll use screen-sharing software. Attendees will be able to hear and see the instructors and will communicate with them via a chat room.
+This training will consist of 10 weekly online live sessions on the weekends (each session is about 3hr and 20min) and 9 optional-to-attend one-hour meetings in between.  We'll use screen-sharing software. Attendees will be able to hear and see the instructors and will communicate with them via a chat room. Between the lessons the student communicate with each other in the online forum.
 
-=== Tools and Technologies
+=== Frameworks, Tools and APIs
 
 Here's the current list of the software that we'll use in this course.
 
@@ -123,7 +117,6 @@ Here's the current list of the software that we'll use in this course.
 * CSS
 * Responsive Web Design principles
 * JavaScript
-* http://www.typescriptlang.org/[TypeScript]
 * JSON
 * http://angularjs.org/[AngularJS framework]
 * http://getbootstrap.com/[Twitter Bootstrap framework]
@@ -142,11 +135,10 @@ Here's the current list of the software that we'll use in this course.
 * https://spring.io/blog/2013/11/01/spring-framework-4-0-rc1-available[Spring 4 Framework] (some modules)
 * http://www.wildfly.org/[JBoss Wildfly] Application Server
 * WebSockets https://jcp.org/en/jsr/detail?id=356[on the server (JSR-356])
-* http://www.jboss.org/hornetq[JBoss HornetQ](Java Messaging)
+* JMS 2.0
 * http://docs.oracle.com/javaee/7/tutorial/doc/jaxrs-advanced.htm#GJJXE[JAX-RS] (Java API for RESTful Web services)
 * http://www.gradle.org/[Gradle]  (build automation)
 * https://code.google.com/p/spock/[Spock] or JUnit (unit testing and mocking)
-* Load testing with http://jmeter.apache.org/[jMeter].
 
 ==== DBMS
 
@@ -154,7 +146,6 @@ Here's the current list of the software that we'll use in this course.
 
 ==== Miscellaneous
 
-* JetBrains TeamCity (continuous integration, code coverage)
 * Git (version control system), GitHub (Git hosting service)
 * IntelliJ IDEA IDE Ultimate. Our special thanks to JetBrains for providing free http://www.jetbrains.com/idea/buy/classroom_license.html[classroom license] for all the students enrolled into this class.
 
@@ -202,7 +193,8 @@ This is an intensive training that's targeted busy professionals who need to mas
 
 9. _When's the Next Training_
 
-The information about the next public training will be announced at http://www.faratasystems.com. 
+Currently we're planning to run the next public training starting July 27, 2014. The information about the next public training will be announced at http://www.faratasystems.com. To get on the waiting list please email at training@faratasystems.com.
+
 You can also request this training to be conducted for your organization online. Just email you inquiry to training@faratasystems.com.
 
 === Instructors

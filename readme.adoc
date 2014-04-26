@@ -199,10 +199,10 @@ You can also request this training to be conducted for your organization online.
 
 This course is taught by three instructors who are practitioners employed by http://faratasystems.com/[Farata Systems]:
 
-* *Yakov Fain (USA)* - Co-founder of Farata Systems, the IT consultancy. https://java.net/website/java-champions/bios.html[Java Champion]. Organizer of the http://www.meetup.com/NJFlex/[Princeton Java Users Group]. Authored and co-authored a number of technical books on programming. Yakov presented on various international conferences on Java and JavaScript related topics.
+* *Yakov Fain* - Co-founder of Farata Systems, the IT consultancy. https://java.net/website/java-champions/bios.html[Java Champion]. Organizer of the http://www.meetup.com/NJFlex/[Princeton Java Users Group]. Authored and co-authored a number of technical books on programming. Yakov presented on various international conferences on Java and JavaScript related topics.
 
-* *Viktor Gamov (USA)* - Lead software developer in Farata Systems. Helps financial companies with various Java and HTML5 projects. Co-organizer of the Princeton Java Users Group. Co-author of the O'Reilly book on http://enterprisewebbook.com/[Enterprise Web Development]. Viktor presented on various international conferences on Java and JavaScript related topics.
+* *Viktor Gamov* - Lead software developer in Farata Systems. Helps financial companies with various Java and HTML5 projects. Co-organizer of the Princeton Java Users Group. Co-author of the O'Reilly book on http://enterprisewebbook.com/[Enterprise Web Development]. Viktor presented on various international conferences on Java and JavaScript related topics.
 
-* *Anton Moiseev (Russia)* - Lead software developer in Farata Systems. Specializes in developing e-Commerce applications. Enjoys everything HTML5-related. Authored and taught trainings on developing Web applications with Ext JS framework.
+* *Anton Moiseev* - Lead software developer in Farata Systems. Specializes in developing e-Commerce applications. Enjoys everything HTML5-related. Authored and taught trainings on developing Web applications with Ext JS framework.
 
 Other professionals from Farata Systems may also be invited to share their experience in developing and deploying complex enterprise systems.
